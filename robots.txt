@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.rayongtour1989.com/about-us/sitemap.xml
